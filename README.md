@@ -114,5 +114,3 @@ Give a ⭐️ if this project helped you!
 ![Alt](https://repobeats.axiom.co/api/embed/9b568eb9e41b60f60fe155836b1ef0fb2a7b93b9.svg "Repobeats analytics image")
 
 - Website: [peppermint.sh](https://peppermint.sh/)
-- Github: [@potts99](https://github.com/potts99)
-- LinkedIn: [@jack-andrews-146852131](https://linkedin.com/in/jack-andrews-146852131)
